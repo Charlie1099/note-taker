@@ -1,0 +1,25 @@
+{
+    "notes": [
+        {
+            "id": "0",
+            "task": "Clean House",
+            "discription": "Clean Kition and the play area"
+        },
+        {
+            "id": "1",
+            "task": "Go shopping",
+            "discription": "Go to Smith's and Walmart"
+        },
+        {
+            "id": "2",
+            "task": "Feed dog",
+            "discription": "feed the dog at hollys"
+        },
+        {
+            "id": "3",
+            "task": "Do School Challange",
+            "discription": "work on challange for 2 hurs"
+        }
+
+    ]
+}
